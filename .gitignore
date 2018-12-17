@@ -35,3 +35,6 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+Scripts/ProjectileLauncher.cs.meta
+Scripts.meta
+Scripts/MovingObstacle.cs.meta
